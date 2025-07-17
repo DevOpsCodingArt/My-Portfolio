@@ -21,8 +21,8 @@ function About() {
       <div className="lower_part flex w-full max-w-6xl flex-col items-center justify-center space-y-8 lg:flex-row lg:space-y-0 lg:space-x-12">
         <div className="image h-60 w-full overflow-hidden rounded-2xl sm:h-72 sm:w-80 md:h-80 md:w-96 lg:h-96 lg:w-[30%]">
           <img
-            src="/aboutme.webp"
-            className="h-full w-full object-cover"
+            src="/About.jpg"
+            className="h-full w-full object-cover object-top"
             alt="About Me"
           />
         </div>
